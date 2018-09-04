@@ -1,0 +1,11 @@
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "flowtype"
+  ],
+  "rules": {
+    "flowtype/no-types-missing-file-annotation": 2,
+    "flowtype/require-valid-file-annotation": 2 // This defaults to "never"!
+    // "flowtype/require-valid-file-annotation": [2, "always"]
+  }
+}

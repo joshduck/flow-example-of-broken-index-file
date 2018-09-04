@@ -1,0 +1,25 @@
+{
+  "name": "test-flow-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/**/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshduck/flow-example-of-broken-index-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshduck/flow-example-of-broken-index-file/issues"
+  },
+  "homepage": "https://github.com/joshduck/flow-example-of-broken-index-file#readme",
+  "devDependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.5.0",
+    "eslint-plugin-flowtype": "^2.50.0"
+  }
+}
